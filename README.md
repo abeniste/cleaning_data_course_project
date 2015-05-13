@@ -95,4 +95,4 @@ Group the data frame by activity and subject and then order the result set by ac
 
 Generate the final file with the result set.
 
-* write.tabl/e(tidy.df, file = "final_tidy_data.txt", row.names = FALSE)
+* write.tabl/e(tidy.df, file = "final_tidy_data.txt", row.name = FALSE)

@@ -12,71 +12,71 @@ There are 68 variables. The letters X,Y and Z at the end of the variable names r
 
 Variables types on this data set:
 
-timeBodyAccelerometer-mean()-X 						: *Numeric*
-timeBodyAccelerometer-mean()-Y 						: *Numeric*
-timeBodyAccelerometer-mean()-Z 						: *Numeric*
-timeBodyAccelerometer-std()-X 						: *Numeric*
-timeBodyAccelerometer-std()-Y 						: *Numeric*
-timeBodyAccelerometer-std()-Z 						: *Numeric*
-timeGravityAccelerometer-mean()-X 				: *Numeric*
-timeGravityAccelerometer-mean()-Y 				: *Numeric*
-timeGravityAccelerometer-mean()-Z 				: *Numeric*
-timeGravityAccelerometer-std()-X 					: *Numeric*
-timeGravityAccelerometer-std()-Y 					: *Numeric*
-timeGravityAccelerometer-std()-Z 					: *Numeric*
-timeBodyAccelerometerJerk-mean()-X 				: *Numeric*
-timeBodyAccelerometerJerk-mean()-Y 				: *Numeric*
-timeBodyAccelerometerJerk-mean()-Z 				: *Numeric*
-timeBodyAccelerometerJerk-std()-X 				: *Numeric*
-timeBodyAccelerometerJerk-std()-Y 				: *Numeric*
-timeBodyAccelerometerJerk-std()-Z 				: *Numeric*
-timeBodyGyroscope-mean()-X 								: *Numeric*
-timeBodyGyroscope-mean()-Y 								: *Numeric*
-timeBodyGyroscope-mean()-Z 								: *Numeric*
-timeBodyGyroscope-std()-X 								: *Numeric*
-timeBodyGyroscope-std()-Y 								: *Numeric*
-timeBodyGyroscope-std()-Z 								: *Numeric*
-timeBodyGyroscopeJerk-mean()-X 						: *Numeric*
-timeBodyGyroscopeJerk-mean()-Y 						: *Numeric*
-timeBodyGyroscopeJerk-mean()-Z 						: *Numeric*
-timeBodyGyroscopeJerk-std()-X 						: *Numeric*
-timeBodyGyroscopeJerk-std()-Y 						: *Numeric*
-timeBodyGyroscopeJerk-std()-Z 						: *Numeric*
-timeBodyAccelerometerMagnitude-mean() 		: *Numeric*
-timeBodyAccelerometerMagnitude-std() 			: *Numeric*
-timeGravityAccelerometerMagnitude-mean() 	: *Numeric*
-timeGravityAccelerometerMagnitude-std() 	: *Numeric*
-timeBodyAccelerometerJerkMagnitude-mean() : *Numeric*
-timeBodyAccelerometerJerkMagnitude-std() 	: *Numeric*
-timeBodyGyroscopeMagnitude-mean() 				: *Numeric*
-timeBodyGyroscopeMagnitude-std() 					: *Numeric*
-timeBodyGyroscopeJerkMagnitude-mean() 		: *Numeric*
-timeBodyGyroscopeJerkMagnitude-std() 			: *Numeric*
-frequencyBodyAccelerometer-mean()-X 			: *Numeric*
-frequencyBodyAccelerometer-mean()-Y 			: *Numeric*
-frequencyBodyAccelerometer-mean()-Z 			: *Numeric*
-frequencyBodyAccelerometer-std()-X 				: *Numeric*
-frequencyBodyAccelerometer-std()-Y 				: *Numeric*
-frequencyBodyAccelerometer-std()-Z 				: *Numeric*
-frequencyBodyAccelerometerJerk-mean()-X 	: *Numeric*
-frequencyBodyAccelerometerJerk-mean()-Y 	: *Numeric*
-frequencyBodyAccelerometerJerk-mean()-Z 	: *Numeric*
-frequencyBodyAccelerometerJerk-std()-X 		: *Numeric*
-frequencyBodyAccelerometerJerk-std()-Y 		: *Numeric*
-frequencyBodyAccelerometerJerk-std()-Z 		: *Numeric*
-frequencyBodyGyroscope-mean()-X 					: *Numeric*
-frequencyBodyGyroscope-mean()-Y 					: *Numeric*
-frequencyBodyGyroscope-mean()-Z 					: *Numeric*
-frequencyBodyGyroscope-std()-X 						: *Numeric*
-frequencyBodyGyroscope-std()-Y 						: *Numeric*
-frequencyBodyGyroscope-std()-Z 						: *Numeric*
-frequencyBodyAccelerometerMagnitude-mean() : *Numeric*
-frequencyBodyAccelerometerMagnitude-std() : *Numeric*
-frequencyBodyAccelerometerJerkMagnitude-mean(): *Numeric*
-frequencyBodyAccelerometerJerkMagnitude-std() : *Numeric*
-frequencyBodyGyroscopeMagnitude-mean() 				: *Numeric*
-frequencyBodyGyroscopeMagnitude-std() 				: *Numeric*
-frequencyBodyGyroscopeJerkMagnitude-mean() 		: *Numeric*
-frequencyBodyGyroscopeJerkMagnitude-std() 		: *Numeric*
-activity_name : *Factor w/ 6 levels "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS", "WALKING_UPSTAIRS"*
-subject 			: *Integer from 1 to 30*
+* timeBodyAccelerometer-mean()-X 						: *Numeric*
+* timeBodyAccelerometer-mean()-Y 						: *Numeric*
+* timeBodyAccelerometer-mean()-Z 						: *Numeric*
+* timeBodyAccelerometer-std()-X 						: *Numeric*
+* timeBodyAccelerometer-std()-Y 						: *Numeric*
+* timeBodyAccelerometer-std()-Z 						: *Numeric*
+* timeGravityAccelerometer-mean()-X 				: *Numeric*
+* timeGravityAccelerometer-mean()-Y 				: *Numeric*
+* timeGravityAccelerometer-mean()-Z 				: *Numeric*
+* timeGravityAccelerometer-std()-X 					: *Numeric*
+* timeGravityAccelerometer-std()-Y 					: *Numeric*
+* timeGravityAccelerometer-std()-Z 					: *Numeric*
+* timeBodyAccelerometerJerk-mean()-X 				: *Numeric*
+* timeBodyAccelerometerJerk-mean()-Y 				: *Numeric*
+* timeBodyAccelerometerJerk-mean()-Z 				: *Numeric*
+* timeBodyAccelerometerJerk-std()-X 				: *Numeric*
+* timeBodyAccelerometerJerk-std()-Y 				: *Numeric*
+* timeBodyAccelerometerJerk-std()-Z 				: *Numeric*
+* timeBodyGyroscope-mean()-X 								: *Numeric*
+* timeBodyGyroscope-mean()-Y 								: *Numeric*
+* timeBodyGyroscope-mean()-Z 								: *Numeric*
+* timeBodyGyroscope-std()-X 								: *Numeric*
+* timeBodyGyroscope-std()-Y 								: *Numeric*
+* timeBodyGyroscope-std()-Z 								: *Numeric*
+* timeBodyGyroscopeJerk-mean()-X 						: *Numeric*
+* timeBodyGyroscopeJerk-mean()-Y 						: *Numeric*
+* timeBodyGyroscopeJerk-mean()-Z 						: *Numeric*
+* timeBodyGyroscopeJerk-std()-X 						: *Numeric*
+* timeBodyGyroscopeJerk-std()-Y 						: *Numeric*
+* timeBodyGyroscopeJerk-std()-Z 						: *Numeric*
+* timeBodyAccelerometerMagnitude-mean() 		: *Numeric*
+* timeBodyAccelerometerMagnitude-std() 			: *Numeric*
+* timeGravityAccelerometerMagnitude-mean() 	: *Numeric*
+* timeGravityAccelerometerMagnitude-std() 	: *Numeric*
+* timeBodyAccelerometerJerkMagnitude-mean() : *Numeric*
+* timeBodyAccelerometerJerkMagnitude-std() 	: *Numeric*
+* timeBodyGyroscopeMagnitude-mean() 				: *Numeric*
+* timeBodyGyroscopeMagnitude-std() 					: *Numeric*
+* timeBodyGyroscopeJerkMagnitude-mean() 		: *Numeric*
+* timeBodyGyroscopeJerkMagnitude-std() 			: *Numeric*
+* frequencyBodyAccelerometer-mean()-X 			: *Numeric*
+* frequencyBodyAccelerometer-mean()-Y 			: *Numeric*
+* frequencyBodyAccelerometer-mean()-Z 			: *Numeric*
+* frequencyBodyAccelerometer-std()-X 				: *Numeric*
+* frequencyBodyAccelerometer-std()-Y 				: *Numeric*
+* frequencyBodyAccelerometer-std()-Z 				: *Numeric*
+* frequencyBodyAccelerometerJerk-mean()-X 	: *Numeric*
+* frequencyBodyAccelerometerJerk-mean()-Y 	: *Numeric*
+* frequencyBodyAccelerometerJerk-mean()-Z 	: *Numeric*
+* frequencyBodyAccelerometerJerk-std()-X 		: *Numeric*
+* frequencyBodyAccelerometerJerk-std()-Y 		: *Numeric*
+* frequencyBodyAccelerometerJerk-std()-Z 		: *Numeric*
+* frequencyBodyGyroscope-mean()-X 					: *Numeric*
+* frequencyBodyGyroscope-mean()-Y 					: *Numeric*
+* frequencyBodyGyroscope-mean()-Z 					: *Numeric*
+* frequencyBodyGyroscope-std()-X 						: *Numeric*
+* frequencyBodyGyroscope-std()-Y 						: *Numeric*
+* frequencyBodyGyroscope-std()-Z 						: *Numeric*
+* frequencyBodyAccelerometerMagnitude-mean() : *Numeric*
+* frequencyBodyAccelerometerMagnitude-std() : *Numeric*
+* frequencyBodyAccelerometerJerkMagnitude-mean(): *Numeric*
+* frequencyBodyAccelerometerJerkMagnitude-std() : *Numeric*
+* frequencyBodyGyroscopeMagnitude-mean() 				: *Numeric*
+* frequencyBodyGyroscopeMagnitude-std() 				: *Numeric*
+* frequencyBodyGyroscopeJerkMagnitude-mean() 		: *Numeric*
+* frequencyBodyGyroscopeJerkMagnitude-std() 		: *Numeric*
+* activity_name : *Factor w/ 6 levels "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS", "WALKING_UPSTAIRS"*
+* subject 			: *Integer from 1 to 30*
